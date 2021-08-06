@@ -1,4 +1,4 @@
-from clock_hand import ClockHand
+from src.clock_hand import ClockHand
 
 class Timer:
 
